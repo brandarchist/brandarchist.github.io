@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cultural Engineering on Brandarchist</title>
-    <link>http://localhost:1313/</link>
+    <link>https://brandarchist.com/</link>
     <description>Recent content in Cultural Engineering on Brandarchist</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Mar 2025 16:36:35 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How It Works</title>
-      <link>http://localhost:1313/how-it-works/</link>
-      <pubDate>Sun, 23 Mar 2025 16:36:35 -0400</pubDate>
-      <guid>http://localhost:1313/how-it-works/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://brandarchist.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book</title>
-      <link>http://localhost:1313/book/</link>
+      <link>https://brandarchist.com/book/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/book/</guid>
+      <guid>https://brandarchist.com/book/</guid>
       <description>&lt;h2 id=&#34;book-a-call&#34;&gt;Book a Call&lt;/h2&gt;
 &lt;p&gt;Want to talk Cultural Engineering, team dynamics, or whether I’m the right fit for your startup? Let’s set it up.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -37,13 +30,13 @@
 &lt;li&gt;If it’s a fit, we’ll get you onboarded the same day&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;If you’re not ready to book but want to vibe-check me first, read the &lt;a href=&#34;http://localhost:1313/success-stories&#34;&gt;Success Stories&lt;/a&gt; or check the &lt;a href=&#34;http://localhost:1313/pricing&#34;&gt;Pricing&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;If you’re not ready to book but want to vibe-check me first, read the &lt;a href=&#34;https://brandarchist.com/success-stories&#34;&gt;Success Stories&lt;/a&gt; or check the &lt;a href=&#34;https://brandarchist.com/pricing&#34;&gt;Pricing&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EQ Framework</title>
-      <link>http://localhost:1313/eq-framework/</link>
+      <link>https://brandarchist.com/eq-framework/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eq-framework/</guid>
+      <guid>https://brandarchist.com/eq-framework/</guid>
       <description>&lt;h2 id=&#34;culture-backed-by-science&#34;&gt;Culture Backed by Science&lt;/h2&gt;
 &lt;p&gt;This isn’t guesswork or vibes. My approach is grounded in proven frameworks like:&lt;/p&gt;
 &lt;hr&gt;
@@ -71,9 +64,9 @@
     </item>
     <item>
       <title>How It Works</title>
-      <link>http://localhost:1313/active-model/</link>
+      <link>https://brandarchist.com/active-model/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/active-model/</guid>
+      <guid>https://brandarchist.com/active-model/</guid>
       <description>&lt;h2 id=&#34;the-active-involvement-plan&#34;&gt;The Active Involvement Plan&lt;/h2&gt;
 &lt;p&gt;The Active Model is where I plug directly into your company—like a cultural co-founder you didn’t know you needed.&lt;/p&gt;
 &lt;hr&gt;
@@ -90,9 +83,9 @@
     </item>
     <item>
       <title>Pricing</title>
-      <link>http://localhost:1313/pricing/</link>
+      <link>https://brandarchist.com/pricing/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pricing/</guid>
+      <guid>https://brandarchist.com/pricing/</guid>
       <description>&lt;h2 id=&#34;five-by-five-pricing&#34;&gt;Five by Five Pricing&lt;/h2&gt;
 &lt;p&gt;Every service is built on one number: &lt;strong&gt;$5,000&lt;/strong&gt;. No bloat, no guesswork—just clean, high-impact support that scales with your team.&lt;/p&gt;
 &lt;hr&gt;

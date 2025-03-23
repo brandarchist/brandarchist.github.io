@@ -1,30 +1,38 @@
 ---
-title: "Book"
-date: 2025-03-23
+title: "Book a Call"
+showDate: false
 ---
 
-## Book a Call
+## Let’s Talk
 
-Want to talk Cultural Engineering, team dynamics, or whether I’m the right fit for your startup? Let’s set it up.
+If you’re an early-stage founder and want to avoid culture collapse, hire smarter, or just figure out what your team *actually* needs—I’ve got you.
 
-> *Most clients book 2–3 weeks out. Don’t wait if you’re serious.*
+**No cost. No commitment. Just 30 minutes of signal.**
 
----
-
-### 🔗 Schedule a Meeting  
-[Click here to book directly](https://calendly.com/brandarchist)  
-*(Fake it till we calendar it—this can point anywhere for now)*
+[→ Schedule a 30-minute call](https://calendly.com/brandarchist/30min)
 
 ---
 
-### 🧩 What to Expect
-- 30-minute intro call  
-- Zero pressure, high clarity  
-- You tell me where you’re stuck, I’ll tell you where you’re bleeding culture  
-- If it’s a fit, we’ll get you onboarded the same day
+### Why Book?
+
+- You’re hiring and want a second brain
+- Your team has unspoken tension and you’re not sure why
+- You’re scaling and don’t want to lose the soul of your company
+- You’ve got great engineers, but something feels off
+- You just want to sanity check your next big move
 
 ---
 
-If you’re not ready to book but want to vibe-check me first, read the [Success Stories](/success-stories) or check the [Pricing](/pricing).
+### How It Works
 
-> *This isn’t fractional leadership. This is full-spectrum founder support, on your terms.*
+- Calls are held via Zoom or Google Meet  
+- You talk, I listen (and ask the right questions)  
+- If we vibe, we’ll talk about what working together might look like
+
+---
+
+This is how I work best:  
+No pressure, no pitch decks, no “business development” nonsense.  
+Just a real convo with someone who sees culture like code.
+
+[→ Book now](https://calendly.com/brandarchist/30min)

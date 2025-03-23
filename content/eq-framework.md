@@ -1,39 +1,48 @@
 ---
 title: "EQ Framework"
-date: 2025-03-23
+showDate: false
 ---
 
-## Culture Backed by Science
+## Emotional Intelligence Isn’t a Buzzword. It’s a Weapon.
 
-This isn’t guesswork or vibes. My approach is grounded in proven frameworks like:
+Startups that collapse early don’t do it because their product sucks.  
+They do it because their people don’t communicate, don’t trust, or burn out fast.
 
----
-
-### 🌀 Spiral Dynamics  
-> Understand the operating system behind every personality on your team.
-
-- Know who’s ready to lead  
-- Spot who’s running fear scripts  
-- Build rituals that match your team’s maturity level
+That’s not a hiring problem. That’s a culture problem.
 
 ---
 
-### 🧬 AQAL (Integral Theory)  
-> Evaluate performance across multiple dimensions: behavior, mindset, relationships, systems.
+## 🌀 Spiral Dynamics Meets Startup Reality
 
-- High performers aren’t always loud  
-- Some rockstars thrive with the right context  
-- You need a framework to *see the whole person*
+I use Spiral Dynamics and AQAL theory to build teams that work *because* they understand each other. Not just their roles—but how they process, collaborate, and recover from stress.
 
----
+Most orgs stay stuck in:
+- **Blue**: rigid, rule-following, top-down pressure
+- **Orange**: hyper-competitive, ego-driven, burnout factory
 
-### 🔍 Peer-Based Review & EQ Metrics  
-> We measure what matters—alignment, self-awareness, team resonance.
-
-- Less HR. More real-time cultural feedback.  
-- No-bullshit performance filters  
-- Psychological safety without babysitting
+I aim for:
+- **Green**: human-first, emotionally aware
+- **Yellow**: systems-aware, autonomy-respecting, founder-aligned
 
 ---
 
-> *The result? A team that works harder, stays longer, and attracts the kind of talent that keeps your startup from turning into a resume graveyard.*
+## 🧠 My Peer Review System
+
+Forget corporate feedback forms. I built a proprietary system that doesn’t just ask people to “rate their teammates.”
+
+It maps:
+- **How you show up to others**
+- **Where your blind spots are**
+- **How your emotional presence impacts team velocity**
+
+Not everyone wants this level of clarity. But high-performance teams *need it.*
+
+---
+
+## 🎯 What You Get
+
+- Real-time cultural diagnostics
+- Custom EQ guidance for individuals and the team as a whole
+- Patterns that help you hire better and scale without turning toxic
+
+[→ See success stories](/success-stories)

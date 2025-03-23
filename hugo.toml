@@ -4,37 +4,37 @@ title = "Brandarchist"
 theme = "PaperMod"
 publishDir = "docs"
 
-[pagination]
-  pagerSize = 5
+# Fix HTML rendering for tables or raw HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
+# Turn off annoying noise like date & read time
 [params]
+  showReadingTime = false
+  showDate = false
+  hideSummary = true
+  env = "production"
   defaultTheme = "dark"
-  showReadingTime = true
-  ShowShareButtons = false
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
 
+# Menu structure
 [[menu.main]]
   name = "Pricing"
   url = "/pricing"
   weight = 1
 
 [[menu.main]]
-  name = "Success Stories"
-  url = "/success-stories"
+  name = "EQ Framework"
+  url = "/eq-framework"
   weight = 2
 
 [[menu.main]]
-  name = "How It Works"
-  url = "/how-it-works"
+  name = "Success Stories"
+  url = "/success-stories"
   weight = 3
-
-[[menu.main]]
-  name = "EQ Framework"
-  url = "/eq-framework"
-  weight = 4
 
 [[menu.main]]
   name = "Book"
   url = "/book"
-  weight = 5
+  weight = 4

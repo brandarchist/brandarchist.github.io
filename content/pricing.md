@@ -1,53 +1,62 @@
 ---
 title: "Pricing"
-date: 2025-03-23
+showDate: false
 ---
 
-## Five by Five Pricing
+## Simple, Honest Pricing
 
-Every service is built on one number: **$5,000**. No bloat, no guesswork—just clean, high-impact support that scales with your team.
-
----
-
-### 🧠 Passive Cultural Engagement  
-**$5,000 / month**  
-8 hours/week
-
-- Candidate screening + phone screens  
-- 1-on-1 coaching for engineers  
-- Inject EQ into team culture via light meeting participation  
-- Awareness-building and interpersonal tuning  
-> *Boost your team's signal without disrupting the build cycle.*
+Every service is a $5K block.  
+No sliding scale. No hourly drama. Just results.
 
 ---
 
-### 🔧 Active Cultural Leadership  
-**$5,000 + $5,000 / month**  
-16 hours/week
+## 🧲 Passive Cultural Support — $5K/month  
+**~1 day/week (8 hours)**
 
-- Full ownership of hiring pipeline  
-- Junior mentorship and leveling-up  
-- Team calibration + cultural diagnostics  
-- Product feedback + founder-to-team translation  
-> *Feels like a full-time team lead—without the burnout or overhead.*
+Ideal for early teams who need a culture co-pilot but aren’t ready for full-on leadership.
 
----
-
-### 🏝️ In-Person Culture Visit  
-**$5,000 flat**  
-1 full day or 2 half-days on-site
-
-- Team sync or founder immersion  
-- Culture-building dinner, karaoke, or escape room  
-- Face-to-face alignment + morale tuning  
-> *Trade a week of remote time for a team energy reset.*
+- Culture coaching
+- Candidate screening + phone screens
+- 1-on-1s to raise individual and team EQ
+- Spot burnout early, boost retention, and lay the cultural foundation right
 
 ---
 
-### 🎯 Leadership-Only Engagement  
-**$5,000 / month**  
-8 hours/week
+## 🧠 Active Cultural Leadership — $10K/month  
+**~2 days/week (16 hours)**
 
-- High-level team leadership  
-- No EQ programming—just mentorship, hiring, and strategy  
-> *Passive culture by proximity. The signal still rises.*
+You get me as a full team lead, without burning one of your best engineers on people problems.
+
+- I take ownership of hiring, mentoring, and execution alignment
+- I help junior talent grow fast while protecting your senior bandwidth
+- I bridge founder vision with team delivery, so over-promises don’t happen
+- Feels like you hired a Head of Culture with tech fluency and zero ego
+
+---
+
+## 👑 Leadership-Only Model — $5K/month  
+**~1 day/week (8 hours)**
+
+If you just want me to lead your team and skip the culture layer—no problem.
+
+- I integrate as a leadership layer with no politics, no fluff
+- Ideal when you already have a strong cultural foundation but need bandwidth
+- Engineering fluency from DevOps to architecture
+- Clear direction, strong delivery, zero hand-holding
+
+---
+
+## 🛬 On-Site Immersion — $5K flat
+
+Use your weekly hours for a visit instead. I’ll embed on-site for a full day (or two half-days), plus host a cultural event if you’d like.
+
+- Real-time syncs, team health-checks, and bonding
+- Optional team dinner, karaoke, or escape room
+- No extra travel costs, no bullshit receipts—just pick a date
+
+---
+
+> 💡 Most clients start passive, then scale up.  
+> Or they go full send from day one to avoid making early culture mistakes.
+
+[→ Book a call](https://calendly.com/brandarchist/30min)

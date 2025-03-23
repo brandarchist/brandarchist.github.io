@@ -2,6 +2,7 @@ baseURL = "https://brandarchist.com/"
 languageCode = "en-us"
 title = "Brandarchist"
 theme = "PaperMod"
+publishDir = "docs"
 
 [pagination]
   pagerSize = 5
